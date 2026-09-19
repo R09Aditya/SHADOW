@@ -1,2 +1,2 @@
 # SHADOW
-SHADOW is an interactive OSINT investigation platform designed to help investigators organize lawfully obtained public information, discover relationships between entities, visualize connections, analyze evidence, and reconstruct digital timelines.
+SHADOW is an interactive OSINT investigation board that allows users to collect publicly available information, organize evidence, connect entities, add notes, draw relationships, and build an investigation visually.
